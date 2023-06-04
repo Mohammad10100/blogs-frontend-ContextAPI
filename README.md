@@ -1,3 +1,5 @@
+# A simple blogs -frontend webapplication from CodeHelp demonstrating the use of Context APIs in react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
